@@ -14,7 +14,7 @@ public class Exemplo_6_4 {
             temperatura[5] = 20.0f;
             temperatura[6] = 24.0f;
             for(int i = 0; i < diasSemana; i++) {
-                soma = soma = temperatura[i];
+                soma = soma + temperatura[i];
             }
             media = soma / diasSemana;
             JOptionPane.showMessageDialog(
