@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49eca33f-1c53-4880-8cf3-e37b50472d3c" name="Changes" comment="Exemplo 6.6">
-      <change afterPath="$PROJECT_DIR$/src/Exemplo_6_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="49eca33f-1c53-4880-8cf3-e37b50472d3c" name="Changes" comment="Exemplo 6.7">
+      <change beforePath="$PROJECT_DIR$/src/Exemplo_6_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exemplo_6_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <updated>1671820947804</updated>
       <workItem from="1671820948310" duration="2345000" />
       <workItem from="1672519221240" duration="5604000" />
-      <workItem from="1672601204710" duration="2256000" />
+      <workItem from="1672601204710" duration="2673000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Inicial">
       <created>1672520765847</created>
@@ -115,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672602843791</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exemplo 6.7">
+      <created>1672603896660</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672603896660</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +136,7 @@
     <MESSAGE value="Exemplo 6.4 correção" />
     <MESSAGE value="Exemplo 6.5" />
     <MESSAGE value="Exemplo 6.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exemplo 6.6" />
+    <MESSAGE value="Exemplo 6.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exemplo 6.7" />
   </component>
 </project>
