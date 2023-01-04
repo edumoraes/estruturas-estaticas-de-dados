@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49eca33f-1c53-4880-8cf3-e37b50472d3c" name="Changes" comment="Comprimento do vetor definido pelo usuário">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio_Fixacao_1.java" afterDir="false" />
+    <list default="true" id="49eca33f-1c53-4880-8cf3-e37b50472d3c" name="Changes" comment="Exercício de Fixação 01">
+      <change afterPath="$PROJECT_DIR$/src/Exercicio_Fixacao_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
       <workItem from="1672519221240" duration="5604000" />
       <workItem from="1672601204710" duration="3891000" />
       <workItem from="1672690430297" duration="2590000" />
+      <workItem from="1672777544419" duration="2364000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Inicial">
       <created>1672520765847</created>
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672604538252</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Exercício de Fixação 01">
+      <created>1672777591120</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672777591120</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +155,7 @@
     <MESSAGE value="Exemplo 6.6" />
     <MESSAGE value="Exemplo 6.7" />
     <MESSAGE value="Comprimento do vetor definido pelo usuário" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comprimento do vetor definido pelo usuário" />
+    <MESSAGE value="Exercício de Fixação 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício de Fixação 01" />
   </component>
 </project>
