@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49eca33f-1c53-4880-8cf3-e37b50472d3c" name="Changes" comment="Exercício de Fixação 02">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio_Fixacao_3.java" afterDir="false" />
+    <list default="true" id="49eca33f-1c53-4880-8cf3-e37b50472d3c" name="Changes" comment="Exercício de Fixação 03">
+      <change afterPath="$PROJECT_DIR$/src/Exercicio_Fixacao_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <workItem from="1672519221240" duration="5604000" />
       <workItem from="1672601204710" duration="3891000" />
       <workItem from="1672690430297" duration="2590000" />
-      <workItem from="1672777544419" duration="2623000" />
+      <workItem from="1672777544419" duration="3166000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Inicial">
       <created>1672520765847</created>
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672790923181</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Exercício de Fixação 03">
+      <created>1672791152764</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1672791152764</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +171,7 @@
     <MESSAGE value="Comprimento do vetor definido pelo usuário" />
     <MESSAGE value="Exercício de Fixação 01" />
     <MESSAGE value="Exercício de Fixação 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício de Fixação 02" />
+    <MESSAGE value="Exercício de Fixação 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício de Fixação 03" />
   </component>
 </project>
