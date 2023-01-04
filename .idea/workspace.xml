@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49eca33f-1c53-4880-8cf3-e37b50472d3c" name="Changes" comment="Exercício de Fixação 06">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio_Fixacao_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio_Fixacao_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,8 @@
       <workItem from="1672519221240" duration="5604000" />
       <workItem from="1672601204710" duration="3891000" />
       <workItem from="1672690430297" duration="2590000" />
-      <workItem from="1672777544419" duration="5116000" />
+      <workItem from="1672777544419" duration="6365000" />
+      <workItem from="1672863279164" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Inicial">
       <created>1672520765847</created>
@@ -159,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672791688942</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Exercício de Fixação 06">
+      <created>1672793700702</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1672793700702</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
